@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/predict"
+        android:icon="@drawable/predict"
+        android:title="Predict" />
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/history"
+        android:title="History" />
+    <item
+        android:id="@+id/me"
+        android:icon="@drawable/me"
+        android:title="Me" />
+</menu>

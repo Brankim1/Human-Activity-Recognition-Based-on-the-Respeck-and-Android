@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370380827007",
+    "project_id": "iotappgroupn-eaf7e",
+    "storage_bucket": "iotappgroupn-eaf7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370380827007:android:793575dca2b26a3adfd24a",
+        "android_client_info": {
+          "package_name": "com.specknet.pdiotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370380827007-uac9atpmeppcmm33htlcs4n0oocs6n46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbrQh10x-48ATCmN-Y_og89QzhxEt5dho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370380827007-uac9atpmeppcmm33htlcs4n0oocs6n46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

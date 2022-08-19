@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/11791/Desktop/loT/IoT cw3/my-pdiotapp-master/app/src/main/res/layout/activity_barcode.xml" value="0.15848007414272475" />
+        <entry key="..\:/Users/11791/Desktop/my-pdiotapp-master/app/src/main/res/layout/activity_connecting.xml" value="0.1578125" />
+        <entry key="..\:/Users/11791/Desktop/my-pdiotapp-master/app/src/main/res/layout/activity_connecting2.xml" value="0.1578125" />
+        <entry key="..\:/Users/11791/Desktop/my-pdiotapp-master/app/src/main/res/layout/activity_history.xml" value="0.1625" />
+        <entry key="..\:/Users/11791/Desktop/my-pdiotapp-master/app/src/main/res/layout/activity_live_data.xml" value="0.12590579710144928" />
+        <entry key="..\:/Users/11791/Desktop/my-pdiotapp-master/app/src/main/res/layout/activity_login_avtivity.xml" value="0.1625" />
+        <entry key="..\:/Users/11791/Desktop/my-pdiotapp-master/app/src/main/res/layout/activity_main.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/11791/Desktop/my-pdiotapp-master/app/src/main/res/layout/activity_me.xml" value="0.1625" />
+        <entry key="..\:/Users/11791/Desktop/my-pdiotapp-master/app/src/main/res/layout/activity_recording.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/11791/Desktop/my-pdiotapp-master/app/src/main/res/layout/activity_register.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/11791/Desktop/my-pdiotapp-master/app/src/main/res/layout/activity_reset.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/11791/Desktop/my-pdiotapp-master/app/src/main/res/layout/nav_header.xml" value="0.176" />
+        <entry key="..\:/Users/11791/Desktop/my-pdiotapp-master/app/src/main/res/menu/drawer_list.xml" value="0.18489583333333334" />
+        <entry key="..\:/prj/k_PDIoT/my-pdiotapp/app/src/main/res/layout/activity_live_data.xml" value="0.2" />
+        <entry key="app/src/main/res/drawable/vec_wireless_active.xml" value="0.24635416666666668" />
+        <entry key="app/src/main/res/layout/activity_connecting.xml" value="0.22604166666666667" />
+        <entry key="app/src/main/res/layout/activity_connecting_new.xml" value="0.2328125" />
+        <entry key="app/src/main/res/layout/activity_live_data.xml" value="0.2203125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.23822463768115942" />
+        <entry key="app/src/main/res/layout/activity_on_boarding.xml" value="0.23822463768115942" />
+        <entry key="app/src/main/res/layout/activity_recording.xml" value="0.22604166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
